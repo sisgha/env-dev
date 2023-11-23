@@ -1,0 +1,27 @@
+[submodule "modules/back-end/module-sso"]
+	path = modules/back-end/module-sso
+	url = https://github.com/sisgha/module-sso.git
+[submodule "modules/back-end/module-gql-gateway"]
+	path = modules/back-end/module-gql-gateway
+	url = https://github.com/sisgha/module-gql-gateway.git
+[submodule "modules/back-end/module-autenticacao"]
+	path = modules/back-end/module-autenticacao
+	url = https://github.com/sisgha/module-autenticacao.git
+[submodule "libs/nest-sso"]
+	path = libs/nest-sso
+	url = https://github.com/sisgha/lib-nest-sso.git
+[submodule "libs/shared-autorizacao"]
+	path = libs/shared-autorizacao
+	url = https://github.com/sisgha/lib-shared-autorizacao.git
+[submodule "modules/front-end/sisgha-app-nuxt"]
+	path = modules/front-end/sisgha-app-nuxt
+	url = https://github.com/sisgha/sisgha-app-nuxt.git
+[submodule "modules/back-end/module-message-broker"]
+	path = modules/back-end/module-message-broker
+	url = https://github.com/sisgha/module-message-broker.git
+[submodule "modules/back-end/module-autorizacao"]
+	path = modules/back-end/module-autorizacao
+	url = https://github.com/sisgha/module-autorizacao.git
+[submodule "modules/back-end/module-busca"]
+	path = modules/back-end/module-busca
+	url = https://github.com/sisgha/module-busca.git
