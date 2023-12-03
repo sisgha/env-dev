@@ -8,11 +8,11 @@
 	path = modules/back-end/module-autenticacao
 	url = https://github.com/sisgha/module-autenticacao.git
 [submodule "libs/nest-sso"]
-	path = libs/nest-sso
-	url = https://github.com/sisgha/lib-nest-sso.git
+	path = libs/sisgea-sso-nest-client
+	url = https://github.com/sisgha/sisgea-sso-nest-client.git
 [submodule "libs/shared-autorizacao"]
-	path = libs/shared-autorizacao
-	url = https://github.com/sisgha/lib-shared-autorizacao.git
+	path = libs/sisgea-autorizacao-client
+	url = https://github.com/sisgha/sisgea-autorizacao-client.git
 [submodule "modules/front-end/sisgha-app-nuxt"]
 	path = modules/front-end/sisgha-app-nuxt
 	url = https://github.com/sisgha/sisgha-app-nuxt.git
