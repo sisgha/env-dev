@@ -25,3 +25,6 @@
 [submodule "modules/back-end/module-busca"]
 	path = modules/back-end/module-busca
 	url = https://github.com/sisgha/module-busca.git
+[submodule "libs/sisgea-authorization-policies-core"]
+	path = libs/sisgea-authorization-policies-core
+	url = https://github.com/sisgha/sisgea-authorization-policies-core.git
