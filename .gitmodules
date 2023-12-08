@@ -28,3 +28,6 @@
 [submodule "libs/sisgea-authorization-policies-core"]
 	path = libs/sisgea-authorization-policies-core
 	url = https://github.com/sisgha/sisgea-authorization-policies-core.git
+[submodule "libs/sisgea-sso-nest-client"]
+	path = libs/sisgea-sso-nest-client
+	url = https://github.com/sisgha/sisgea-sso-nest-client.git
