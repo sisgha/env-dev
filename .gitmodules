@@ -25,9 +25,12 @@
 [submodule "modules/back-end/module-busca"]
 	path = modules/back-end/module-busca
 	url = https://github.com/sisgha/module-busca.git
-[submodule "libs/sisgea-authorization-policies-core"]
-	path = libs/sisgea-authorization-policies-core
-	url = https://github.com/sisgha/sisgea-authorization-policies-core.git
 [submodule "libs/sisgea-sso-nest-client"]
 	path = libs/sisgea-sso-nest-client
 	url = https://github.com/sisgha/sisgea-sso-nest-client.git
+[submodule "libs/sisgea-spec"]
+	path = libs/sisgea-spec
+	url = https://github.com/sisgha/sisgea-spec.git
+[submodule "modules/back-end/module-sisgha"]
+	path = modules/back-end/module-sisgha
+	url = https://github.com/sisgha/module-sisgha.git
