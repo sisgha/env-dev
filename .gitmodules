@@ -10,9 +10,6 @@
 [submodule "libs/nest-sso"]
 	path = libs/sisgea-sso-nest-client
 	url = https://github.com/sisgha/sisgea-sso-nest-client.git
-[submodule "libs/shared-autorizacao"]
-	path = libs/sisgea-autorizacao-client
-	url = https://github.com/sisgha/sisgea-autorizacao-client.git
 [submodule "modules/front-end/sisgha-app-nuxt"]
 	path = modules/front-end/sisgha-app-nuxt
 	url = https://github.com/sisgha/sisgha-app-nuxt.git
@@ -25,12 +22,18 @@
 [submodule "modules/back-end/module-busca"]
 	path = modules/back-end/module-busca
 	url = https://github.com/sisgha/module-busca.git
-[submodule "libs/sisgea-sso-nest-client"]
-	path = libs/sisgea-sso-nest-client
-	url = https://github.com/sisgha/sisgea-sso-nest-client.git
 [submodule "libs/sisgea-spec"]
 	path = libs/sisgea-spec
 	url = https://github.com/sisgha/sisgea-spec.git
 [submodule "modules/back-end/module-sisgha"]
 	path = modules/back-end/module-sisgha
 	url = https://github.com/sisgha/module-sisgha.git
+[submodule "libs/sisgea-nest-auth-connect"]
+	path = libs/sisgea-nest-auth-connect
+	url = https://github.com/sisgha/sisgea-nest-auth-connect.git
+[submodule "libs/sisgea-authz-client"]
+	path = libs/sisgea-authz-client
+	url = https://github.com/sisgha/sisgea-authz-client.git
+[submodule "libs/sisgea-nest-authz-connect"]
+	path = libs/sisgea-nest-authz-connect
+	url = https://github.com/sisgha/sisgea-nest-authz-connect.git
